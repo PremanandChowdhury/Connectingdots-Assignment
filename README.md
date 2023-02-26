@@ -1,4 +1,4 @@
-# Connectingdots Assingment
+# Connectingdots Assignment
 
 Assignment 1:
  Create a Homepage as per design.
