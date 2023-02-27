@@ -1,4 +1,4 @@
-# Connectingdots Assignment
+# Connectingdots Assignment 1 Repo
 
 Assignment 1:
  Create a Homepage as per design.
